@@ -3,3 +3,18 @@ body {
 	font-size: 100%;
 	font-family: 'Arial', sans-serif;
 }
+h1, h2 {
+  font-variant: small-caps;
+}
+h2 {
+  color: blue;
+}
+p {
+  color: red;
+}
+img {
+  float: left;
+  border-radius: 50%;
+  filter: grayscale(100%);
+  padding-right: 15px;
+}

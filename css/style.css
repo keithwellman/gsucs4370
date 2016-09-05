@@ -16,7 +16,13 @@ body {
 	padding: 10px 15px 10px 15px;
 	border-radius: 15px;
 }
-header {
+.quote {
+	font-size: 12px;
+	font-style: italic;
+	margin: auto;
+	text-align: right;
+	width: 400px;
+	color: #c0c0c0;
 
 }
 
